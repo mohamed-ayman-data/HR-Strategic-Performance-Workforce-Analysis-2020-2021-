@@ -100,7 +100,9 @@ This project demonstrates my ability to transform raw HR data into a **strategic
 
 **Interested in leveraging data to drive your organization's talent strategy?** 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your-LinkedIn-URL-Here](https://www.linkedin.com/in/mohamed-ayman-data/)) 
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat&logo=github)]([Your-GitHub-Profile-URL-Here](https://github.com/mohamed-ayman-data))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ayman-data/)
+[![Email](https://img.shields.io/badge/Email-Profile-red?style=for-the-badge&logo=gmail)](mohmedaymn2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/mohamed-ayman-data)
+
 
 *Open to roles in: **People Analytics | HR Business Intelligence | Data Analysis***
